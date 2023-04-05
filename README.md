@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I'm currently working at [METER Group AG](https://www.metergroup.com) based in Nuremberg, Germany.
+💻 I'm currently working at ADDIUM GmbH based in Nuremberg, Germany.
